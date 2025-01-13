@@ -18,7 +18,7 @@ CADIM is an innovative approach designed to overcome the challenges of cloud-cov
 - Emergency response planning and resilience building.
 - Integration with real-time hydrological monitoring systems.
 
-🔺🤏**Why the name CADIM?**🔺🤏
+**🔺🤏Why the name CADIM?🔺🤏**
 
 The name CADIM stands for Cloud-Aware DEM Inundation Mapping. But it’s more than just an acronym! In Mineirês-Portuguese, "cadim" (pronounced kah-jeem) is a colloquial way of saying "a little bit". It reflects the idea of doing "a little bit more" to overcome the challenges of flood mapping under cloudy skies, Even if it's just a little step towards Everest. While traditional methods struggle when clouds blocking the view, CADIM takes it a step further by integrating Digital Elevation Models and machine learning to ensure nothing is missed. 
 
