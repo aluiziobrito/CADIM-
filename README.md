@@ -31,9 +31,9 @@ II - The file **kmeans.R** uses the unspervised ML algorithm to generate the ini
 
 III - The file **morpho_fil.R** is used to filter the morphometrical attributes using the gaussian filter.
 
-IV - The file **"RF1.R"**, which includes all stages (parameterization, sampling, classification, and evaluation) of mapping flooded areas using the Random Forest classifier, and The file **"RF2.R"**, which includes all stages (parameterization, sampling, classification that are the same as in RF1, and also a under-cloud prediction) of mapping flood-prone areas using the Random Forest classifier.
+IV - The file **"RF1.R"**, which includes all stages (parameterization, sampling, classification, and evaluation) of mapping flooded areas using the Random Forest classifier, and The file **"RF2.R"**, which includes all stages (parameterization, sampling, classification that are the same as in RF1, and also an under-cloud prediction) of mapping flood-prone areas using the Random Forest classifier.
 
-V - The **boruta.R** file includes the attribute selection tool with the Boruta Algoritm.
+V - The **boruta.R** file includes the attribute selection tool with the Boruta Algorithm.
 
 Any reference to the code and the work can be made by citing:
 
