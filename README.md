@@ -27,9 +27,13 @@ The set of codes includes:
 
 I - The file **"Det_n_s_final.R"**, which contains the code for detecting and creating the cloud and shadow mask using the Rpart decision tree classifier. Also, it includes the 'Clouds_Shadows_Mask.md' file, which provides documentation and supplementary details for the code.
 
-II - The file **"RF1.R"**, which includes all stages (parameterization, sampling, classification, and evaluation) of mapping flooded areas using the Random Forest classifier.
+II - The file **kmeans.R** uses the unspervised ML algorithm to generate the initial samples.
 
-III - The file **"RF2.R"**, which includes all stages (parameterization, sampling, classification and under-cloud prediction) of mapping flood-prone areas using the Random Forest classifier.
+III - The file **morpho_fil.R** is used to filter the morphometrical attributes using the gaussian filter.
+
+IV - The file **"RF1.R"**, which includes all stages (parameterization, sampling, classification, and evaluation) of mapping flooded areas using the Random Forest classifier, and The file **"RF2.R"**, which includes all stages (parameterization, sampling, classification that are the same as in RF1, and also a under-cloud prediction) of mapping flood-prone areas using the Random Forest classifier.
+
+V - The **boruta.R** file includes the attribute selection tool with the Boruta Algoritm.
 
 Any reference to the code and the work can be made by citing:
 
