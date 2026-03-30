@@ -46,7 +46,7 @@ And any furter informations can be acquired in:
 Feel free to contribute! If you have suggestions, don’t hesitate to open an issue or a pull request.
 
 For more information and discussions, contact:
-Aluizio Brito Maia aluizio.maia@inpe.br  
+Aluizio Brito Maia aluiziobritoufmg@gmail.com
 Camilo Daleles Rennó camilo.renno@inpe.br  
 
 ## Installation 
