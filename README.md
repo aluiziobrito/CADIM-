@@ -37,7 +37,7 @@ V - The **boruta.R** file includes the attribute selection tool with the Boruta 
 
 Any reference to the code and the work can be made by citing:
 
- A. B. Maia, C. D. Rennó, E. M. L. M. Novo, I. R. C. Mira. "A DEM-Based Model for Fast Flood Detection Under Simulated Cloud Cover: A Controlled Study." **Some Journal infos**. 2025
+A. B. Maia, C. D. Rennó, E. M. L. d. M. Novo and Í. R. C. d. Mira, "Flood Detection in Optical Systems: A Novel Approach to Overcome Cloud Cover With DEM Data," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 19, pp. 904-918, 2026, doi: 10.1109/JSTARS.2025.3637509.
 
 And any furter informations can be acquired in:
 
